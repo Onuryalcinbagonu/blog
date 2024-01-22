@@ -69,6 +69,6 @@ end
 gem 'bootstrap', '~> 5.3.2'
 gem 'dartsass-sprockets'
 gem 'jquery-rails'
-gem "cssbundling-rails", "~> 1.3"
+gem "cssbundling-rails", "~> 1.4"
 
 gem "jsbundling-rails", "~> 1.2"
